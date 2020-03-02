@@ -1,0 +1,7 @@
+F:\whucsLearning\visual studio\Csharpweek2\Csharpweek2\bin\Debug\Csharpweek2.exe.config
+F:\whucsLearning\visual studio\Csharpweek2\Csharpweek2\bin\Debug\Csharpweek2.exe
+F:\whucsLearning\visual studio\Csharpweek2\Csharpweek2\bin\Debug\Csharpweek2.pdb
+F:\whucsLearning\visual studio\Csharpweek2\Csharpweek2\obj\Debug\Csharpweek2.csprojAssemblyReference.cache
+F:\whucsLearning\visual studio\Csharpweek2\Csharpweek2\obj\Debug\Csharpweek2.csproj.CoreCompileInputs.cache
+F:\whucsLearning\visual studio\Csharpweek2\Csharpweek2\obj\Debug\Csharpweek2.exe
+F:\whucsLearning\visual studio\Csharpweek2\Csharpweek2\obj\Debug\Csharpweek2.pdb
