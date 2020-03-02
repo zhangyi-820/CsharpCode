@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace Csharpweek2
 {
+    //求质因数
     public class PrimeNumber
     {
+        //判断一个数是不是质数
         public static bool IsPrime(int var)
         {
             int i = 2;
@@ -22,6 +24,7 @@ namespace Csharpweek2
             return true;
         }
 
+        //求质因数
         public static void PrimeFactors(int var,out List<int>result)
         {
             int i;
@@ -41,6 +44,7 @@ namespace Csharpweek2
             }
         }
 
+        //测试
         public  void PrimeFactorsMain()
         {
             Console.Write("输入数字:");
@@ -56,8 +60,11 @@ namespace Csharpweek2
         }
         
     }
+
+    //数组计算
     public class Array
     {
+        //创建数组
         public int[] CreateArray()
         {
             Random rd = new Random();
@@ -70,6 +77,7 @@ namespace Csharpweek2
             return testArray;
         }
 
+        //计算得到数组的最小值，最大值，和以及平均值
         public void Calculate(int[] testArray, out int min, out int max, out int sum, out double mean)
         {
             mean = min = max = testArray[0];
@@ -87,6 +95,7 @@ namespace Csharpweek2
             mean = (double)sum / (testArray.Length);
         }
 
+        //测试
         public void ArrayTest()
         {
             int min, max, sum;
@@ -99,17 +108,20 @@ namespace Csharpweek2
 
     }
 
+    //埃氏筛法
     class Eratosthenes
     {
-        
+        //埃氏筛法
         public void Transform(out List<int> list)
         {  
-            
+            //创建2-100的List
             list = new List<int>();
             for (int i = 0; i < 99; i++)
             {
                 list.Add(i + 2);
             }
+
+            //将不符合埃氏筛法的数去除
             int count;
             for (count = 0; count < 99; count++)
             {
@@ -137,6 +149,7 @@ namespace Csharpweek2
        
     }
 
+    //测试类
     class Test
     {
         static void Main(string []args)
