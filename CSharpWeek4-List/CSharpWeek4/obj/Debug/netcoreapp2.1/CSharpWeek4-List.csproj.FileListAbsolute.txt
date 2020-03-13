@@ -1,0 +1,11 @@
+F:\whucsLearning\git\CSharpWeek4-List\CSharpWeek4\bin\Debug\netcoreapp2.1\CSharpWeek4-List.deps.json
+F:\whucsLearning\git\CSharpWeek4-List\CSharpWeek4\bin\Debug\netcoreapp2.1\CSharpWeek4-List.runtimeconfig.json
+F:\whucsLearning\git\CSharpWeek4-List\CSharpWeek4\bin\Debug\netcoreapp2.1\CSharpWeek4-List.runtimeconfig.dev.json
+F:\whucsLearning\git\CSharpWeek4-List\CSharpWeek4\bin\Debug\netcoreapp2.1\CSharpWeek4-List.dll
+F:\whucsLearning\git\CSharpWeek4-List\CSharpWeek4\bin\Debug\netcoreapp2.1\CSharpWeek4-List.pdb
+F:\whucsLearning\git\CSharpWeek4-List\CSharpWeek4\obj\Debug\netcoreapp2.1\CSharpWeek4-List.csprojAssemblyReference.cache
+F:\whucsLearning\git\CSharpWeek4-List\CSharpWeek4\obj\Debug\netcoreapp2.1\CSharpWeek4-List.csproj.CoreCompileInputs.cache
+F:\whucsLearning\git\CSharpWeek4-List\CSharpWeek4\obj\Debug\netcoreapp2.1\CSharpWeek4-List.AssemblyInfoInputs.cache
+F:\whucsLearning\git\CSharpWeek4-List\CSharpWeek4\obj\Debug\netcoreapp2.1\CSharpWeek4-List.AssemblyInfo.cs
+F:\whucsLearning\git\CSharpWeek4-List\CSharpWeek4\obj\Debug\netcoreapp2.1\CSharpWeek4-List.dll
+F:\whucsLearning\git\CSharpWeek4-List\CSharpWeek4\obj\Debug\netcoreapp2.1\CSharpWeek4-List.pdb

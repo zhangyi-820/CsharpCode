@@ -1,0 +1,11 @@
+F:\whucsLearning\git\CSharpWeek4-Clock\CSharpWeek4-Clock\bin\Debug\netcoreapp2.1\CSharpWeek4-Clock.deps.json
+F:\whucsLearning\git\CSharpWeek4-Clock\CSharpWeek4-Clock\bin\Debug\netcoreapp2.1\CSharpWeek4-Clock.runtimeconfig.json
+F:\whucsLearning\git\CSharpWeek4-Clock\CSharpWeek4-Clock\bin\Debug\netcoreapp2.1\CSharpWeek4-Clock.runtimeconfig.dev.json
+F:\whucsLearning\git\CSharpWeek4-Clock\CSharpWeek4-Clock\bin\Debug\netcoreapp2.1\CSharpWeek4-Clock.dll
+F:\whucsLearning\git\CSharpWeek4-Clock\CSharpWeek4-Clock\bin\Debug\netcoreapp2.1\CSharpWeek4-Clock.pdb
+F:\whucsLearning\git\CSharpWeek4-Clock\CSharpWeek4-Clock\obj\Debug\netcoreapp2.1\CSharpWeek4-Clock.csprojAssemblyReference.cache
+F:\whucsLearning\git\CSharpWeek4-Clock\CSharpWeek4-Clock\obj\Debug\netcoreapp2.1\CSharpWeek4-Clock.csproj.CoreCompileInputs.cache
+F:\whucsLearning\git\CSharpWeek4-Clock\CSharpWeek4-Clock\obj\Debug\netcoreapp2.1\CSharpWeek4-Clock.AssemblyInfoInputs.cache
+F:\whucsLearning\git\CSharpWeek4-Clock\CSharpWeek4-Clock\obj\Debug\netcoreapp2.1\CSharpWeek4-Clock.AssemblyInfo.cs
+F:\whucsLearning\git\CSharpWeek4-Clock\CSharpWeek4-Clock\obj\Debug\netcoreapp2.1\CSharpWeek4-Clock.dll
+F:\whucsLearning\git\CSharpWeek4-Clock\CSharpWeek4-Clock\obj\Debug\netcoreapp2.1\CSharpWeek4-Clock.pdb

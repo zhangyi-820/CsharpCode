@@ -1,0 +1,11 @@
+F:\whucsLearning\git\CSharpWeek4\CSharpWeek4\obj\Debug\netcoreapp2.1\CSharpWeek4.csprojAssemblyReference.cache
+F:\whucsLearning\git\CSharpWeek4\CSharpWeek4\obj\Debug\netcoreapp2.1\CSharpWeek4.csproj.CoreCompileInputs.cache
+F:\whucsLearning\git\CSharpWeek4\CSharpWeek4\obj\Debug\netcoreapp2.1\CSharpWeek4.AssemblyInfoInputs.cache
+F:\whucsLearning\git\CSharpWeek4\CSharpWeek4\obj\Debug\netcoreapp2.1\CSharpWeek4.AssemblyInfo.cs
+F:\whucsLearning\git\CSharpWeek4\CSharpWeek4\bin\Debug\netcoreapp2.1\CSharpWeek4.deps.json
+F:\whucsLearning\git\CSharpWeek4\CSharpWeek4\bin\Debug\netcoreapp2.1\CSharpWeek4.runtimeconfig.json
+F:\whucsLearning\git\CSharpWeek4\CSharpWeek4\bin\Debug\netcoreapp2.1\CSharpWeek4.runtimeconfig.dev.json
+F:\whucsLearning\git\CSharpWeek4\CSharpWeek4\bin\Debug\netcoreapp2.1\CSharpWeek4.dll
+F:\whucsLearning\git\CSharpWeek4\CSharpWeek4\bin\Debug\netcoreapp2.1\CSharpWeek4.pdb
+F:\whucsLearning\git\CSharpWeek4\CSharpWeek4\obj\Debug\netcoreapp2.1\CSharpWeek4.dll
+F:\whucsLearning\git\CSharpWeek4\CSharpWeek4\obj\Debug\netcoreapp2.1\CSharpWeek4.pdb
