@@ -1,0 +1,11 @@
+F:\whucsLearning\git\CsharpWeekFive\CsharpWeekFive\obj\Debug\netcoreapp2.1\CsharpWeekFive.csprojAssemblyReference.cache
+F:\whucsLearning\git\CsharpWeekFive\CsharpWeekFive\obj\Debug\netcoreapp2.1\CsharpWeekFive.csproj.CoreCompileInputs.cache
+F:\whucsLearning\git\CsharpWeekFive\CsharpWeekFive\obj\Debug\netcoreapp2.1\CsharpWeekFive.AssemblyInfoInputs.cache
+F:\whucsLearning\git\CsharpWeekFive\CsharpWeekFive\obj\Debug\netcoreapp2.1\CsharpWeekFive.AssemblyInfo.cs
+F:\whucsLearning\git\CsharpWeekFive\CsharpWeekFive\bin\Debug\netcoreapp2.1\CsharpWeekFive.deps.json
+F:\whucsLearning\git\CsharpWeekFive\CsharpWeekFive\bin\Debug\netcoreapp2.1\CsharpWeekFive.runtimeconfig.json
+F:\whucsLearning\git\CsharpWeekFive\CsharpWeekFive\bin\Debug\netcoreapp2.1\CsharpWeekFive.runtimeconfig.dev.json
+F:\whucsLearning\git\CsharpWeekFive\CsharpWeekFive\bin\Debug\netcoreapp2.1\CsharpWeekFive.dll
+F:\whucsLearning\git\CsharpWeekFive\CsharpWeekFive\bin\Debug\netcoreapp2.1\CsharpWeekFive.pdb
+F:\whucsLearning\git\CsharpWeekFive\CsharpWeekFive\obj\Debug\netcoreapp2.1\CsharpWeekFive.dll
+F:\whucsLearning\git\CsharpWeekFive\CsharpWeekFive\obj\Debug\netcoreapp2.1\CsharpWeekFive.pdb
