@@ -78,6 +78,13 @@ namespace CsharpWeekFive
             Console.WriteLine("修改订单信息，将订单中的商品价格翻倍");
             orderService.orderList[0].ModifyPrice();
             Console.WriteLine(orderService.ToString()+"\n");
+
+            orderService.Export();
+            List<Order> importTest = (List<Order>)orderService.Import();
+            foreach(Order ord in importTest)
+            {
+                Console.WriteLine(ord.ToString());
+            }
         }
     }
 }

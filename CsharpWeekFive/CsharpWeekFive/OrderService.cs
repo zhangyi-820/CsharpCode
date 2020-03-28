@@ -1,10 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-
+using System.IO;
+using System.Xml.Serialization;
 namespace CsharpWeekFive
 {
-    class OrderService
+    public class OrderService
     {
         //订单List,存储系统中订单信息
         public List<Order> orderList = new List<Order>();
@@ -54,16 +55,17 @@ namespace CsharpWeekFive
         //返回订单list
         public List<Order> Seek(int desID)
         {
+            var m = from order in this.orderList
+                    where order.OrderID == desID
+                    select order;
             List<Order> res = new List<Order>();
-            for (int i = 0; i < this.orderList.Count; i++)
-            {
-                if (this.orderList[i].OrderID == desID)
-                {
-                    res.Add(orderList[i]);
-                }
-            }
+            foreach (Order o in m)
+                res.Add(o);
+            if (res.Count == 0)
+                return null;
             return res;
         }
+
         public List<Order> Seek(string des)
         {
             List<Order> res = new List<Order>();
@@ -139,5 +141,44 @@ namespace CsharpWeekFive
             return res;
         }
 
+        //序列化
+        public void Export()
+        {
+            string path = "F:\\whucsLearning\\git\\CsharpWeekFive\\hh.xml";
+            FileStream fs = new FileStream(path, FileMode.Create);
+            XmlSerializer xs = new XmlSerializer(typeof(List<Order>));
+            xs.Serialize(fs, this.orderList);
+            fs.Close();
+        }
+
+        //反序列化
+        public object Import()
+        {
+            string path = "F:\\whucsLearning\\git\\CsharpWeekFive\\hh.xml";
+            XmlSerializer serializer = new XmlSerializer(typeof(List<Order>));
+          
+            using (StreamReader reader = new StreamReader(path))
+            {
+               
+                List<Order> order = (List<Order>)serializer.Deserialize(reader);
+                return order;
+        
+            }
+        }
+
+        public override bool Equals(object obj)
+        {
+            OrderService ords = obj as OrderService;
+            if ((ords.orderList.Count != this.orderList.Count))
+                return false;
+            for(int i = 0; i < ords.orderList.Count; i++)
+            {
+                if (!(this.orderList[i].Equals(ords.orderList[i])))
+                {
+                    return false;
+                }
+            }
+            return true;
+        }
     }
 }

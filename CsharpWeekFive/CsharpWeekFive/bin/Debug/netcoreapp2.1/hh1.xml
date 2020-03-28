@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Order xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <goodsList>
+    <OrderItem>
+      <Name>裤子</Name>
+      <GoodsID>3</GoodsID>
+      <Price>200</Price>
+      <Amount>1</Amount>
+      <TotalPrice>200</TotalPrice>
+    </OrderItem>
+    <OrderItem>
+      <Name>饮用水</Name>
+      <GoodsID>4</GoodsID>
+      <Price>4</Price>
+      <Amount>10</Amount>
+      <TotalPrice>40</TotalPrice>
+    </OrderItem>
+  </goodsList>
+  <ReceivingAddress>重庆</ReceivingAddress>
+  <ReceivingPerson>李四</ReceivingPerson>
+</Order>

@@ -4,7 +4,8 @@ using System.Text;
 
 namespace CsharpWeekFive
 {
-    internal class Order : IComparable<Order>
+    [Serializable]
+    public class Order : IComparable<Order>
     {
         //订单编号
         private int orderID;
@@ -13,6 +14,10 @@ namespace CsharpWeekFive
             get
             {
                 return orderID;
+            }
+            set
+            {
+                this.orderID = value;
             }
         }
 
@@ -29,6 +34,10 @@ namespace CsharpWeekFive
                 }
                 return temp;
             }
+            set
+            {
+                this.totalSum = value;
+            }
         }
 
         //订单生成时间
@@ -38,6 +47,10 @@ namespace CsharpWeekFive
             get
             {
                 return time;
+            }
+            set
+            {
+                this.time = value;
             }
         }
 
@@ -84,6 +97,11 @@ namespace CsharpWeekFive
             orderID = int.Parse(temp);
         }
 
+        public Order()
+        {
+
+        }
+
         public void ModifyPrice()
         {
             for(int i = 0; i < this.goodsList.Count; i++)
@@ -125,9 +143,14 @@ namespace CsharpWeekFive
         public override bool Equals(object obj)
         {
             Order order = obj as Order;
-            if ((this.orderID == order.orderID) && (this.receivingAddress == order.receivingAddress) && (this.receivingPerson == order.receivingPerson)
-                && (this.goodsList == order.goodsList) && (this.totalSum == order.totalSum))
+            if ((this.OrderID == order.OrderID) && (this.ReceivingAddress == order.ReceivingAddress) && (this.ReceivingPerson == order.ReceivingPerson)
+                && (this.goodsList.Count == order.goodsList.Count) && (this.TotalSum == order.TotalSum))
             {
+                for(int i = 0; i < this.goodsList.Count; i++)
+                {
+                    if (!(this.goodsList[i].Equals(order.goodsList[i])))
+                        return false;
+                }
                 return true;
             }
             return false;

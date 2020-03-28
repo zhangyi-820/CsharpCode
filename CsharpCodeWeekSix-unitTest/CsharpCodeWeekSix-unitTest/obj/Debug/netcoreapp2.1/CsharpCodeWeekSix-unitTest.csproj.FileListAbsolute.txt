@@ -1,0 +1,17 @@
+F:\whucsLearning\git\CsharpCodeWeekSix-unitTest\CsharpCodeWeekSix-unitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\whucsLearning\git\CsharpCodeWeekSix-unitTest\CsharpCodeWeekSix-unitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\whucsLearning\git\CsharpCodeWeekSix-unitTest\CsharpCodeWeekSix-unitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\whucsLearning\git\CsharpCodeWeekSix-unitTest\CsharpCodeWeekSix-unitTest\bin\Debug\netcoreapp2.1\CsharpCodeWeekSix-unitTest.deps.json
+F:\whucsLearning\git\CsharpCodeWeekSix-unitTest\CsharpCodeWeekSix-unitTest\bin\Debug\netcoreapp2.1\CsharpCodeWeekSix-unitTest.runtimeconfig.json
+F:\whucsLearning\git\CsharpCodeWeekSix-unitTest\CsharpCodeWeekSix-unitTest\bin\Debug\netcoreapp2.1\CsharpCodeWeekSix-unitTest.runtimeconfig.dev.json
+F:\whucsLearning\git\CsharpCodeWeekSix-unitTest\CsharpCodeWeekSix-unitTest\bin\Debug\netcoreapp2.1\CsharpCodeWeekSix-unitTest.dll
+F:\whucsLearning\git\CsharpCodeWeekSix-unitTest\CsharpCodeWeekSix-unitTest\bin\Debug\netcoreapp2.1\CsharpCodeWeekSix-unitTest.pdb
+F:\whucsLearning\git\CsharpCodeWeekSix-unitTest\CsharpCodeWeekSix-unitTest\bin\Debug\netcoreapp2.1\CsharpWeekFive.dll
+F:\whucsLearning\git\CsharpCodeWeekSix-unitTest\CsharpCodeWeekSix-unitTest\bin\Debug\netcoreapp2.1\CsharpWeekFive.pdb
+F:\whucsLearning\git\CsharpCodeWeekSix-unitTest\CsharpCodeWeekSix-unitTest\obj\Debug\netcoreapp2.1\CsharpCodeWeekSix-unitTest.csprojAssemblyReference.cache
+F:\whucsLearning\git\CsharpCodeWeekSix-unitTest\CsharpCodeWeekSix-unitTest\obj\Debug\netcoreapp2.1\CsharpCodeWeekSix-unitTest.csproj.CoreCompileInputs.cache
+F:\whucsLearning\git\CsharpCodeWeekSix-unitTest\CsharpCodeWeekSix-unitTest\obj\Debug\netcoreapp2.1\CsharpCodeWeekSix-unitTest.AssemblyInfoInputs.cache
+F:\whucsLearning\git\CsharpCodeWeekSix-unitTest\CsharpCodeWeekSix-unitTest\obj\Debug\netcoreapp2.1\CsharpCodeWeekSix-unitTest.AssemblyInfo.cs
+F:\whucsLearning\git\CsharpCodeWeekSix-unitTest\CsharpCodeWeekSix-unitTest\obj\Debug\netcoreapp2.1\CsharpCodeWeekSix-unitTest.csproj.CopyComplete
+F:\whucsLearning\git\CsharpCodeWeekSix-unitTest\CsharpCodeWeekSix-unitTest\obj\Debug\netcoreapp2.1\CsharpCodeWeekSix-unitTest.dll
+F:\whucsLearning\git\CsharpCodeWeekSix-unitTest\CsharpCodeWeekSix-unitTest\obj\Debug\netcoreapp2.1\CsharpCodeWeekSix-unitTest.pdb

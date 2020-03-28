@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CsharpWeekFive
 {
-    class OrderItem
+    public class OrderItem
     {
         //商品名称
         private string name;
@@ -68,11 +68,11 @@ namespace CsharpWeekFive
         {
             get
             {
-                return price*amount;
+                return this.price*this.amount;
             }
             set
             {
-                totalPrice = amount * price;
+                totalPrice = value;
             }
         }
 
@@ -84,6 +84,11 @@ namespace CsharpWeekFive
             this.price = price;
             this.amount = amount;
             this.totalPrice = amount * price;
+        }
+
+        public OrderItem()
+        {
+
         }
 
         //重写ToString方法，返回该条目的信息
