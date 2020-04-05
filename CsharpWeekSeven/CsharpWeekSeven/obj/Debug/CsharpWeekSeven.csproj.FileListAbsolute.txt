@@ -1,0 +1,10 @@
+F:\OneDrive - whu.edu.cn\whucsLearning\git\CsharpWeekSeven\CsharpWeekSeven\bin\Debug\CsharpWeekSeven.exe.config
+F:\OneDrive - whu.edu.cn\whucsLearning\git\CsharpWeekSeven\CsharpWeekSeven\bin\Debug\CsharpWeekSeven.exe
+F:\OneDrive - whu.edu.cn\whucsLearning\git\CsharpWeekSeven\CsharpWeekSeven\bin\Debug\CsharpWeekSeven.pdb
+F:\OneDrive - whu.edu.cn\whucsLearning\git\CsharpWeekSeven\CsharpWeekSeven\obj\Debug\CsharpWeekSeven.csprojAssemblyReference.cache
+F:\OneDrive - whu.edu.cn\whucsLearning\git\CsharpWeekSeven\CsharpWeekSeven\obj\Debug\CsharpWeekSeven.Form1.resources
+F:\OneDrive - whu.edu.cn\whucsLearning\git\CsharpWeekSeven\CsharpWeekSeven\obj\Debug\CsharpWeekSeven.Properties.Resources.resources
+F:\OneDrive - whu.edu.cn\whucsLearning\git\CsharpWeekSeven\CsharpWeekSeven\obj\Debug\CsharpWeekSeven.csproj.GenerateResource.cache
+F:\OneDrive - whu.edu.cn\whucsLearning\git\CsharpWeekSeven\CsharpWeekSeven\obj\Debug\CsharpWeekSeven.csproj.CoreCompileInputs.cache
+F:\OneDrive - whu.edu.cn\whucsLearning\git\CsharpWeekSeven\CsharpWeekSeven\obj\Debug\CsharpWeekSeven.exe
+F:\OneDrive - whu.edu.cn\whucsLearning\git\CsharpWeekSeven\CsharpWeekSeven\obj\Debug\CsharpWeekSeven.pdb
