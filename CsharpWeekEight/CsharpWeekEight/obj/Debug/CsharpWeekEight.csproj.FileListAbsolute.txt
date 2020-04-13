@@ -1,0 +1,12 @@
+C:\Users\秋霜139\source\repos\CsharpWeekEight\CsharpWeekEight\bin\Debug\CsharpWeekEight.exe.config
+C:\Users\秋霜139\source\repos\CsharpWeekEight\CsharpWeekEight\bin\Debug\CsharpWeekEight.exe
+C:\Users\秋霜139\source\repos\CsharpWeekEight\CsharpWeekEight\bin\Debug\CsharpWeekEight.pdb
+C:\Users\秋霜139\source\repos\CsharpWeekEight\CsharpWeekEight\obj\Debug\CsharpWeekEight.csprojAssemblyReference.cache
+C:\Users\秋霜139\source\repos\CsharpWeekEight\CsharpWeekEight\obj\Debug\CsharpWeekEight.Properties.Resources.resources
+C:\Users\秋霜139\source\repos\CsharpWeekEight\CsharpWeekEight\obj\Debug\CsharpWeekEight.csproj.GenerateResource.cache
+C:\Users\秋霜139\source\repos\CsharpWeekEight\CsharpWeekEight\obj\Debug\CsharpWeekEight.csproj.CoreCompileInputs.cache
+C:\Users\秋霜139\source\repos\CsharpWeekEight\CsharpWeekEight\obj\Debug\CsharpWeekEight.exe
+C:\Users\秋霜139\source\repos\CsharpWeekEight\CsharpWeekEight\obj\Debug\CsharpWeekEight.pdb
+C:\Users\秋霜139\source\repos\CsharpWeekEight\CsharpWeekEight\obj\Debug\CsharpWeekEight.mainForm.resources
+C:\Users\秋霜139\source\repos\CsharpWeekEight\CsharpWeekEight\obj\Debug\CsharpWeekEight.addItemForm.resources
+C:\Users\秋霜139\source\repos\CsharpWeekEight\CsharpWeekEight\obj\Debug\CsharpWeekEight.addOrderForm.resources
