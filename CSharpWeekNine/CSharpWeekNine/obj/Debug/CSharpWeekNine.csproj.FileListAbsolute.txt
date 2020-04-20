@@ -1,0 +1,10 @@
+C:\Users\秋霜139\source\repos\CSharpWeekNine\CSharpWeekNine\bin\Debug\CSharpWeekNine.exe.config
+C:\Users\秋霜139\source\repos\CSharpWeekNine\CSharpWeekNine\bin\Debug\CSharpWeekNine.exe
+C:\Users\秋霜139\source\repos\CSharpWeekNine\CSharpWeekNine\bin\Debug\CSharpWeekNine.pdb
+C:\Users\秋霜139\source\repos\CSharpWeekNine\CSharpWeekNine\obj\Debug\CSharpWeekNine.csprojAssemblyReference.cache
+C:\Users\秋霜139\source\repos\CSharpWeekNine\CSharpWeekNine\obj\Debug\CSharpWeekNine.Form1.resources
+C:\Users\秋霜139\source\repos\CSharpWeekNine\CSharpWeekNine\obj\Debug\CSharpWeekNine.Properties.Resources.resources
+C:\Users\秋霜139\source\repos\CSharpWeekNine\CSharpWeekNine\obj\Debug\CSharpWeekNine.csproj.GenerateResource.cache
+C:\Users\秋霜139\source\repos\CSharpWeekNine\CSharpWeekNine\obj\Debug\CSharpWeekNine.csproj.CoreCompileInputs.cache
+C:\Users\秋霜139\source\repos\CSharpWeekNine\CSharpWeekNine\obj\Debug\CSharpWeekNine.exe
+C:\Users\秋霜139\source\repos\CSharpWeekNine\CSharpWeekNine\obj\Debug\CSharpWeekNine.pdb
