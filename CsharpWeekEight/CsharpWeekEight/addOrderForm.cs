@@ -62,7 +62,7 @@ namespace CsharpWeekEight
                 }
                 //用户输入了不合规范的信息
                 catch (FormatException exception){
-                    MessageBox.Show("请输入正确类型信息", "ERROR", MessageBoxButtons.OK);
+                    MessageBox.Show(exception.Message, "ERROR", MessageBoxButtons.OK);
                 }
               }
             //用户为输入完整信息
@@ -73,6 +73,11 @@ namespace CsharpWeekEight
         private void backButton_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void goodsNameTextBox_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

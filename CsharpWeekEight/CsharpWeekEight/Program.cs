@@ -14,6 +14,11 @@ namespace CsharpWeekEight
         [STAThread]
         static void Main()
         {
+            //s.StudentId = 1;
+            //s.Name = "张圯";
+            //s.Sex = "男";
+            //context1.Students.Add(s);
+            //context1.SaveChanges();
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new mainForm());

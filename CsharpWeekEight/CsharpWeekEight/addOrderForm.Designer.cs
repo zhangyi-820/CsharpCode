@@ -200,6 +200,7 @@
             this.goodsNameTextBox.Name = "goodsNameTextBox";
             this.goodsNameTextBox.Size = new System.Drawing.Size(100, 28);
             this.goodsNameTextBox.TabIndex = 3;
+            this.goodsNameTextBox.TextChanged += new System.EventHandler(this.goodsNameTextBox_TextChanged);
             // 
             // backButton
             // 

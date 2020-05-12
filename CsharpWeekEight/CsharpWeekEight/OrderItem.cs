@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,6 +11,7 @@ namespace CsharpWeekEight
     {
         //商品名称
         private string name;
+        [Required]
         public string Name
         {
             get
@@ -24,6 +26,7 @@ namespace CsharpWeekEight
 
         //商品编号
         private int goodsID;
+        [Required]
         public int GoodsID
         {
             get
@@ -38,6 +41,7 @@ namespace CsharpWeekEight
 
         //商品价格
         private double price;
+        [Required]
         public double Price
         {
             get
@@ -52,6 +56,7 @@ namespace CsharpWeekEight
 
         //商品数量
         private int amount;
+        [Required]
         public int Amount
         {
             get
@@ -66,6 +71,7 @@ namespace CsharpWeekEight
 
         //单项商品金额合计
         private double totalPrice;
+        [Required]
         public double TotalPrice
         {
             get
@@ -77,6 +83,10 @@ namespace CsharpWeekEight
                 totalPrice = value;
             }
         }
+
+        public int OrderID { get; set; }
+
+        public Order order { get; set; }
 
         //OrderItem的构造函数，默认商品数量为1，自动计算总价
         public OrderItem(string name, int goodsID, double price, int amount = 1)
