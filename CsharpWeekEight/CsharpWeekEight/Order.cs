@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+
 
 namespace CsharpWeekEight
 {
@@ -11,6 +14,7 @@ namespace CsharpWeekEight
     {
         //订单编号
         private int orderID;
+        [Key, Column(Order = 1)]
         public int OrderID
         {
             get
@@ -25,6 +29,7 @@ namespace CsharpWeekEight
 
         //订单总金额
         private double totalSum;
+        [Required]
         public double TotalSum
         {
             get
@@ -44,6 +49,7 @@ namespace CsharpWeekEight
 
         //订单生成时间
         private string time;
+        [Required]
         public string Time
         {
             get
@@ -58,6 +64,7 @@ namespace CsharpWeekEight
 
         //订单的收货地址
         private string receivingAddress;
+        [Required]
         public string ReceivingAddress
         {
             get
@@ -72,6 +79,7 @@ namespace CsharpWeekEight
 
         //订单的收货人
         private string receivingPerson;
+        [Required]
         public string ReceivingPerson
         {
             get
@@ -86,7 +94,7 @@ namespace CsharpWeekEight
 
         //该订单中的商品list
         public List<OrderItem> goodsList = new List<OrderItem>();
-
+        public List<OrderItem> GoodsList { get; set; }
         //Order类的构造函数
         //创建订单时必须提供收货人和收货地址，订单号和订单时间自动生成
         public Order(string receivingAddress, string recevingPerson)

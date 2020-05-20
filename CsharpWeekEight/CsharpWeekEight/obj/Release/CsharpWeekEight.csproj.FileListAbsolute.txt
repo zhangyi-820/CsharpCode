@@ -1,0 +1,55 @@
+F:\OneDrive - whu.edu.cn\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\bin\Release\CsharpWeekEight.exe.config
+F:\OneDrive - whu.edu.cn\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\bin\Release\CsharpWeekEight.exe
+F:\OneDrive - whu.edu.cn\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\bin\Release\CsharpWeekEight.pdb
+F:\OneDrive - whu.edu.cn\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\obj\Release\CsharpWeekEight.addItemForm.resources
+F:\OneDrive - whu.edu.cn\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\obj\Release\CsharpWeekEight.mainForm.resources
+F:\OneDrive - whu.edu.cn\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\obj\Release\CsharpWeekEight.addOrderForm.resources
+F:\OneDrive - whu.edu.cn\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\obj\Release\CsharpWeekEight.Properties.Resources.resources
+F:\OneDrive - whu.edu.cn\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\obj\Release\CsharpWeekEight.csproj.GenerateResource.cache
+F:\OneDrive - whu.edu.cn\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\obj\Release\CsharpWeekEight.csproj.CoreCompileInputs.cache
+F:\OneDrive - whu.edu.cn\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\obj\Release\CsharpWeekEight.exe
+F:\OneDrive - whu.edu.cn\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\obj\Release\CsharpWeekEight.pdb
+F:\OneDrive - whu.edu.cn\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\obj\Release\CsharpWeekEight.csprojAssemblyReference.cache
+F:\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\bin\Release\CsharpWeekEight.exe.config
+F:\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\bin\Release\CsharpWeekEight.exe
+F:\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\bin\Release\CsharpWeekEight.pdb
+F:\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\obj\Release\CsharpWeekEight.csprojAssemblyReference.cache
+F:\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\obj\Release\CsharpWeekEight.addItemForm.resources
+F:\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\obj\Release\CsharpWeekEight.mainForm.resources
+F:\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\obj\Release\CsharpWeekEight.addOrderForm.resources
+F:\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\obj\Release\CsharpWeekEight.Properties.Resources.resources
+F:\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\obj\Release\CsharpWeekEight.csproj.GenerateResource.cache
+F:\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\obj\Release\CsharpWeekEight.csproj.CoreCompileInputs.cache
+F:\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\obj\Release\CsharpWeekEight.exe
+F:\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\obj\Release\CsharpWeekEight.pdb
+F:\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\bin\Release\EntityFramework.dll
+F:\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\bin\Release\EntityFramework.SqlServer.dll
+F:\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\bin\Release\MySql.Data.dll
+F:\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\bin\Release\MySql.Data.Entity.EF6.dll
+F:\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\bin\Release\EntityFramework.xml
+F:\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\bin\Release\EntityFramework.SqlServer.xml
+F:\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\bin\Release\MySql.Data.xml
+F:\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\bin\Release\MySql.Data.Entity.EF6.xml
+F:\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\obj\Release\CsharpWeekEight.csproj.CopyComplete
+F:\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\bin\Release\BouncyCastle.Crypto.dll
+F:\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\bin\Release\Google.Protobuf.dll
+F:\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\bin\Release\K4os.Compression.LZ4.dll
+F:\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\bin\Release\K4os.Compression.LZ4.Streams.dll
+F:\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\bin\Release\K4os.Hash.xxHash.dll
+F:\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\bin\Release\Renci.SshNet.dll
+F:\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\bin\Release\System.Buffers.dll
+F:\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\bin\Release\System.Memory.dll
+F:\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\bin\Release\System.Numerics.Vectors.dll
+F:\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+F:\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\bin\Release\Ubiety.Dns.Core.dll
+F:\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\bin\Release\Zstandard.Net.dll
+F:\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\bin\Release\Google.Protobuf.pdb
+F:\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\bin\Release\Google.Protobuf.xml
+F:\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\bin\Release\K4os.Compression.LZ4.xml
+F:\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\bin\Release\K4os.Compression.LZ4.Streams.xml
+F:\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\bin\Release\K4os.Hash.xxHash.xml
+F:\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\bin\Release\Renci.SshNet.xml
+F:\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\bin\Release\System.Buffers.xml
+F:\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\bin\Release\System.Memory.xml
+F:\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\bin\Release\System.Numerics.Vectors.xml
+F:\whucsLearning\git\CsharpWeekEight\CsharpWeekEight\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
