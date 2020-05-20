@@ -1,0 +1,88 @@
+/Users/jiaxy/workspace/netcore/TodoApi/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/jiaxy/workspace/netcore/TodoApi/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/jiaxy/workspace/netcore/TodoApi/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/jiaxy/workspace/netcore/TodoApi/bin/Debug/netcoreapp3.1/TodoApi
+/Users/jiaxy/workspace/netcore/TodoApi/bin/Debug/netcoreapp3.1/TodoApi.deps.json
+/Users/jiaxy/workspace/netcore/TodoApi/bin/Debug/netcoreapp3.1/TodoApi.runtimeconfig.json
+/Users/jiaxy/workspace/netcore/TodoApi/bin/Debug/netcoreapp3.1/TodoApi.runtimeconfig.dev.json
+/Users/jiaxy/workspace/netcore/TodoApi/bin/Debug/netcoreapp3.1/TodoApi.dll
+/Users/jiaxy/workspace/netcore/TodoApi/bin/Debug/netcoreapp3.1/TodoApi.pdb
+/Users/jiaxy/workspace/netcore/TodoApi/obj/Debug/netcoreapp3.1/TodoApi.csprojAssemblyReference.cache
+/Users/jiaxy/workspace/netcore/TodoApi/obj/Debug/netcoreapp3.1/staticwebassets/TodoApi.StaticWebAssets.Manifest.cache
+/Users/jiaxy/workspace/netcore/TodoApi/obj/Debug/netcoreapp3.1/staticwebassets/TodoApi.StaticWebAssets.xml
+/Users/jiaxy/workspace/netcore/TodoApi/obj/Debug/netcoreapp3.1/TodoApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/jiaxy/workspace/netcore/TodoApi/obj/Debug/netcoreapp3.1/TodoApi.AssemblyInfoInputs.cache
+/Users/jiaxy/workspace/netcore/TodoApi/obj/Debug/netcoreapp3.1/TodoApi.AssemblyInfo.cs
+/Users/jiaxy/workspace/netcore/TodoApi/obj/Debug/netcoreapp3.1/TodoApi.RazorTargetAssemblyInfo.cache
+/Users/jiaxy/workspace/netcore/TodoApi/obj/Debug/netcoreapp3.1/TodoApi.dll
+/Users/jiaxy/workspace/netcore/TodoApi/obj/Debug/netcoreapp3.1/TodoApi.pdb
+/Users/jiaxy/workspace/netcore/TodoApi/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/jiaxy/workspace/netcore/TodoApi/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/jiaxy/workspace/netcore/TodoApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/jiaxy/workspace/netcore/TodoApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/jiaxy/workspace/netcore/TodoApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/jiaxy/workspace/netcore/TodoApi/bin/Debug/netcoreapp3.1/MySqlConnector.dll
+/Users/jiaxy/workspace/netcore/TodoApi/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/jiaxy/workspace/netcore/TodoApi/bin/Debug/netcoreapp3.1/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/jiaxy/workspace/netcore/TodoApi/bin/Debug/netcoreapp3.1/Pomelo.JsonObject.dll
+/Users/jiaxy/workspace/netcore/TodoApi/obj/Debug/netcoreapp3.1/TodoApi.csproj.CopyComplete
+F:\whucsLearning\gradeTwo\Software Construction Foundation\第十二讲-示例代码\TodoApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\whucsLearning\gradeTwo\Software Construction Foundation\第十二讲-示例代码\TodoApi\bin\Debug\netcoreapp3.1\appsettings.json
+F:\whucsLearning\gradeTwo\Software Construction Foundation\第十二讲-示例代码\TodoApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\whucsLearning\gradeTwo\Software Construction Foundation\第十二讲-示例代码\TodoApi\bin\Debug\netcoreapp3.1\TodoApi.exe
+F:\whucsLearning\gradeTwo\Software Construction Foundation\第十二讲-示例代码\TodoApi\bin\Debug\netcoreapp3.1\TodoApi.deps.json
+F:\whucsLearning\gradeTwo\Software Construction Foundation\第十二讲-示例代码\TodoApi\bin\Debug\netcoreapp3.1\TodoApi.runtimeconfig.json
+F:\whucsLearning\gradeTwo\Software Construction Foundation\第十二讲-示例代码\TodoApi\bin\Debug\netcoreapp3.1\TodoApi.runtimeconfig.dev.json
+F:\whucsLearning\gradeTwo\Software Construction Foundation\第十二讲-示例代码\TodoApi\bin\Debug\netcoreapp3.1\TodoApi.dll
+F:\whucsLearning\gradeTwo\Software Construction Foundation\第十二讲-示例代码\TodoApi\bin\Debug\netcoreapp3.1\TodoApi.pdb
+F:\whucsLearning\gradeTwo\Software Construction Foundation\第十二讲-示例代码\TodoApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\whucsLearning\gradeTwo\Software Construction Foundation\第十二讲-示例代码\TodoApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\whucsLearning\gradeTwo\Software Construction Foundation\第十二讲-示例代码\TodoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\whucsLearning\gradeTwo\Software Construction Foundation\第十二讲-示例代码\TodoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\whucsLearning\gradeTwo\Software Construction Foundation\第十二讲-示例代码\TodoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\whucsLearning\gradeTwo\Software Construction Foundation\第十二讲-示例代码\TodoApi\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+F:\whucsLearning\gradeTwo\Software Construction Foundation\第十二讲-示例代码\TodoApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\whucsLearning\gradeTwo\Software Construction Foundation\第十二讲-示例代码\TodoApi\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+F:\whucsLearning\gradeTwo\Software Construction Foundation\第十二讲-示例代码\TodoApi\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+F:\whucsLearning\gradeTwo\Software Construction Foundation\第十二讲-示例代码\TodoApi\obj\Debug\netcoreapp3.1\TodoApi.csprojAssemblyReference.cache
+F:\whucsLearning\gradeTwo\Software Construction Foundation\第十二讲-示例代码\TodoApi\obj\Debug\netcoreapp3.1\TodoApi.csproj.CoreCompileInputs.cache
+F:\whucsLearning\gradeTwo\Software Construction Foundation\第十二讲-示例代码\TodoApi\obj\Debug\netcoreapp3.1\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+F:\whucsLearning\gradeTwo\Software Construction Foundation\第十二讲-示例代码\TodoApi\obj\Debug\netcoreapp3.1\TodoApi.AssemblyInfoInputs.cache
+F:\whucsLearning\gradeTwo\Software Construction Foundation\第十二讲-示例代码\TodoApi\obj\Debug\netcoreapp3.1\TodoApi.AssemblyInfo.cs
+F:\whucsLearning\gradeTwo\Software Construction Foundation\第十二讲-示例代码\TodoApi\obj\Debug\netcoreapp3.1\TodoApi.RazorTargetAssemblyInfo.cache
+F:\whucsLearning\gradeTwo\Software Construction Foundation\第十二讲-示例代码\TodoApi\obj\Debug\netcoreapp3.1\TodoApi.csproj.CopyComplete
+F:\whucsLearning\gradeTwo\Software Construction Foundation\第十二讲-示例代码\TodoApi\obj\Debug\netcoreapp3.1\staticwebassets\TodoApi.StaticWebAssets.Manifest.cache
+F:\whucsLearning\gradeTwo\Software Construction Foundation\第十二讲-示例代码\TodoApi\obj\Debug\netcoreapp3.1\staticwebassets\TodoApi.StaticWebAssets.xml
+F:\whucsLearning\gradeTwo\Software Construction Foundation\第十二讲-示例代码\TodoApi\obj\Debug\netcoreapp3.1\TodoApi.dll
+F:\whucsLearning\gradeTwo\Software Construction Foundation\第十二讲-示例代码\TodoApi\obj\Debug\netcoreapp3.1\TodoApi.pdb
+F:\whucsLearning\gradeTwo\Software Construction Foundation\第十二讲-示例代码\TodoApi\obj\Debug\netcoreapp3.1\TodoApi.genruntimeconfig.cache
+C:\Users\秋霜139\Desktop\TodoApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\秋霜139\Desktop\TodoApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\秋霜139\Desktop\TodoApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\秋霜139\Desktop\TodoApi\bin\Debug\netcoreapp3.1\TodoApi.exe
+C:\Users\秋霜139\Desktop\TodoApi\bin\Debug\netcoreapp3.1\TodoApi.deps.json
+C:\Users\秋霜139\Desktop\TodoApi\bin\Debug\netcoreapp3.1\TodoApi.runtimeconfig.json
+C:\Users\秋霜139\Desktop\TodoApi\bin\Debug\netcoreapp3.1\TodoApi.runtimeconfig.dev.json
+C:\Users\秋霜139\Desktop\TodoApi\bin\Debug\netcoreapp3.1\TodoApi.dll
+C:\Users\秋霜139\Desktop\TodoApi\bin\Debug\netcoreapp3.1\TodoApi.pdb
+C:\Users\秋霜139\Desktop\TodoApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\秋霜139\Desktop\TodoApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\秋霜139\Desktop\TodoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\秋霜139\Desktop\TodoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\秋霜139\Desktop\TodoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\秋霜139\Desktop\TodoApi\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\秋霜139\Desktop\TodoApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\秋霜139\Desktop\TodoApi\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\秋霜139\Desktop\TodoApi\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\秋霜139\Desktop\TodoApi\obj\Debug\netcoreapp3.1\TodoApi.csprojAssemblyReference.cache
+C:\Users\秋霜139\Desktop\TodoApi\obj\Debug\netcoreapp3.1\TodoApi.csproj.CoreCompileInputs.cache
+C:\Users\秋霜139\Desktop\TodoApi\obj\Debug\netcoreapp3.1\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\秋霜139\Desktop\TodoApi\obj\Debug\netcoreapp3.1\TodoApi.AssemblyInfoInputs.cache
+C:\Users\秋霜139\Desktop\TodoApi\obj\Debug\netcoreapp3.1\TodoApi.AssemblyInfo.cs
+C:\Users\秋霜139\Desktop\TodoApi\obj\Debug\netcoreapp3.1\TodoApi.RazorTargetAssemblyInfo.cache
+C:\Users\秋霜139\Desktop\TodoApi\obj\Debug\netcoreapp3.1\TodoApi.csproj.CopyComplete
+C:\Users\秋霜139\Desktop\TodoApi\obj\Debug\netcoreapp3.1\staticwebassets\TodoApi.StaticWebAssets.Manifest.cache
+C:\Users\秋霜139\Desktop\TodoApi\obj\Debug\netcoreapp3.1\staticwebassets\TodoApi.StaticWebAssets.xml
+C:\Users\秋霜139\Desktop\TodoApi\obj\Debug\netcoreapp3.1\TodoApi.dll
+C:\Users\秋霜139\Desktop\TodoApi\obj\Debug\netcoreapp3.1\TodoApi.pdb
+C:\Users\秋霜139\Desktop\TodoApi\obj\Debug\netcoreapp3.1\TodoApi.genruntimeconfig.cache

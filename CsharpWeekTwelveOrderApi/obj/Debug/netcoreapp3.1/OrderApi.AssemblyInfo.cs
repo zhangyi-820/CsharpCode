@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("CsharpWeekFive")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("OrderApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("CsharpWeekFive")]
-[assembly: System.Reflection.AssemblyTitleAttribute("CsharpWeekFive")]
+[assembly: System.Reflection.AssemblyProductAttribute("OrderApi")]
+[assembly: System.Reflection.AssemblyTitleAttribute("OrderApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。
